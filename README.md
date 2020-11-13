@@ -1,5 +1,6 @@
 # Unity实现微信分享功能
 通过Android Studio接入微信开放平台SDK，再制作Android Lib编译成AAR文件，最终放入Unity项目中调用
+
 **另：Unity iOS平台接入微信SDK请参考[这篇文章](https://www.yuque.com/jooki/hcm4it/vfn3uk)
 
 # Tips
